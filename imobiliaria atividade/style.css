@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
+    padding: 5vh;
+}
+
+p{
+    margin: 30px;
+    max-width: 1000px;
+}
+
+#pSecao3{
+    color: black;
+}
+
+.spanSecao3e5{
+    color: rgb(58, 146, 218);
+}
+
+.spanSecao4e6{
+    color: yellow;
+}
+
+#secao1{
+    background-color: rgb(140, 216, 235);
+}
+
+#imgLogo{
+    height: 20vh;
+}
+
+#pLinks{
+    display: flex;
+    gap: 20px;
+}
+
+#imgBanner{
+    height: 40vh;
+}
+
+#secao3{
+    color:  rgb(58, 146, 218);
+}
+
+#imgImovelAssinatura{
+    height: 40vh;
+}
+
+h1{
+    color: black;
+    margin: 10px;
+    font-size: 30px;
+}
+
+h2{
+    margin: 10px;
+}
+
+#subtituloSecao3{
+    font-size: 20px;
+}
+
+#secao4{
+    background-color: rgb(58, 146, 218);
+    color: white;
+}
+
+#imgCorretor{
+    height: 40vh;
+}
+
+#secao6{
+    background-color: rgb(58, 146, 218);
+    color: white;
+    margin-bottom: 0;
+}
+
+#iframe{
+    height: 50vh;
+    width: 110vh;
+}
+
+#linkContainer{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.itemLink{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
